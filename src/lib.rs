@@ -1,6 +1,6 @@
 mod korwin;
 
-pub const VERSION: &str = "pre.0.1";
+pub const VERSION: &str = "0.1";
 
 pub fn generate() -> String {
     let korwin = korwin::get()
