@@ -1,11 +1,8 @@
 mod korwin;
 
-fn main() {
-    let output = generate();
-    println!("{output}");
-}
+pub const VERSION: &str = "pre.0.1";
 
-fn generate() -> String {
+pub fn generate() -> String {
     let korwin = korwin::get()
         .clone()
         .into_iter()
