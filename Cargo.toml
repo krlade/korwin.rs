@@ -1,8 +1,7 @@
 [package]
-name = "korwin-rs"
+name = "korwin"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-json = {	version="0.12.4" }
 rand = { version="0.8.5"}
