@@ -13,6 +13,9 @@ pub fn generate() -> String {
         })
         .collect::<Vec<String>>()
         .join(" ")
-        .collect::<String>();
-    korwin
+}
+
+#[doc = "returns the amount of possible results"]
+pub fn variations() -> usize {
+    quotes::get().into_iter().map(|s| s.len()).product()
 }
