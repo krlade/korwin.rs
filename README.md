@@ -1,3 +1,6 @@
+![Crates.io](https://img.shields.io/crates/v/korwin)
+![GitHub top language](https://img.shields.io/github/languages/top/karl0d/korwin.rs)
+
 ## [EN]
 The first Janusz Korwin-Mikke quotes generator written in Rust 🦀
 
