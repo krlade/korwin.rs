@@ -2,12 +2,12 @@
 name = "korwin"
 description = "Janusz Korwin-Mikke quotes generator"
 
-repository = "https://github.com/karl0d/korwin-rs"
+repository = "https://github.com/karl0d/korwin.rs"
 readme = "README.md"
 license = "MIT"
 keywords = ["korwin", "korwin-mikke"]
 
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 
 exclude = [

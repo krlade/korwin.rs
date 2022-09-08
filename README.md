@@ -7,7 +7,7 @@ Please do not use it to spread a hate speech!
 
 It is inspired by [bopke/korwin](https://github.com/bopke/korwin)
 
-See [example usage](docs/EXAMPLE.md)
+See [example usage](docs/README.md)
 
 ## [PL]
 Pierwszy generator cytatów Korwina napisany w Rust'cie 🦀
