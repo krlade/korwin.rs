@@ -48,6 +48,7 @@ pub fn get() -> Vec<Vec<&'static str>> {
             "ci wszyscy (tfu!) demokraci",
             "agenci bezpieki",
             "feminazistki",
+            "presstytutki"
         ],
         vec![
             "po przeczytaniu Manifestu Komunistycznego",
@@ -144,6 +145,8 @@ pub fn get() -> Vec<Vec<&'static str>> {
             "— tak samo zresztą jak za Hitlera.",
             "— proszę zobaczyć, co się dzieje na Zachodzie, jeśli mi państwo nie wierzą.",
             "co lat temu sto nikomu nie przyszłoby nawet do głowy.",
+            "— debile byli zawsze, ale NIGDY NIE UCZONO ICH CZYTAĆ I PISAĆ, więc nie było problemu!",
+            "— a będzie jeszcze gorzej!",
         ],
     ]
 }
