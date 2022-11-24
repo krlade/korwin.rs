@@ -48,7 +48,7 @@ pub fn get() -> Vec<Vec<&'static str>> {
             "ci wszyscy (tfu!) demokraci",
             "agenci bezpieki",
             "feminazistki",
-            "presstytutki"
+            "presstytutki",
         ],
         vec![
             "po przeczytaniu Manifestu Komunistycznego",
