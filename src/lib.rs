@@ -1,8 +1,5 @@
 mod quotes;
 
-#[doc = "library version"]
-pub const VERSION: &str = "0.2";
-
 #[doc = "returns a generated Korwin quote"]
 pub fn generate() -> String {
     quotes::get()
