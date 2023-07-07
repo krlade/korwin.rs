@@ -25,6 +25,7 @@ pub fn get() -> Vec<Vec<&'static str>> {
             "Ja chciałem państwu przypomnieć, że",
             "Niech państwo nie mają złudzeń:",
             "Powiedzmy to wyraźnie:",
+            "Jak już powiedziałem:",
         ],
         vec![
             "właściciele niewolników",
@@ -49,6 +50,7 @@ pub fn get() -> Vec<Vec<&'static str>> {
             "agenci bezpieki",
             "feminazistki",
             "presstytutki",
+            "satanistyczni (tfu!) \"geje\"",
         ],
         vec![
             "po przeczytaniu Manifestu Komunistycznego",
@@ -97,6 +99,7 @@ pub fn get() -> Vec<Vec<&'static str>> {
             "zakazują posiadania broni",
             "nie dopuszczają prawicy do władzy",
             "uczą dzieci homoseksualizmu",
+            "maszerują po ulicach Ameryki",
         ],
         vec![
             "żeby poddawać wszystkich tresurze",
@@ -147,6 +150,7 @@ pub fn get() -> Vec<Vec<&'static str>> {
             "co lat temu sto nikomu nie przyszłoby nawet do głowy.",
             "— debile byli zawsze, ale NIGDY NIE UCZONO ICH CZYTAĆ I PISAĆ, więc nie było problemu!",
             "— a będzie jeszcze gorzej!",
+            "— a media powiedzą Wam, że Waszym Wrogiem № 1 jest ortodoksyjny chrześcijanin, prezydent Włodzimierz Putin"
         ],
     ]
 }
